@@ -20,16 +20,14 @@ They should be used as simple samples to get started on :
 
 <a src="https://raw.githubusercontent.com/ceddc/devsummit-berlin-2015-SOI/master/images/filteraccess-rest-not-logged.PNG">
 <img src="https://raw.githubusercontent.com/ceddc/devsummit-berlin-2015-SOI/master/images/filteraccess-rest-not-logged.PNG" width="300"></a>
-*Rest service without credentials (only 2 layers visible)*   
-
-<a src="https://raw.githubusercontent.com/ceddc/devsummit-berlin-2015-SOI/master/images/filteraccess-rest-logged.PNG">
+*Rest service without credentials (only 2 layers visible)* <a src="https://raw.githubusercontent.com/ceddc/devsummit-berlin-2015-SOI/master/images/filteraccess-rest-logged.PNG">
 <img src="https://raw.githubusercontent.com/ceddc/devsummit-berlin-2015-SOI/master/images/filteraccess-rest-logged.PNG" width="300"></a>
 *Rest service with credentials (all layers visible)*
+
 
 <a src="https://raw.githubusercontent.com/ceddc/devsummit-berlin-2015-SOI/master/images/filteraccess-not-logged.PNG">
 <img src="https://raw.githubusercontent.com/ceddc/devsummit-berlin-2015-SOI/master/images/filteraccess-not-logged.PNG" width="300"></a>
 *Map visualization without credentials (only 2 layers visible)*   
-
 <a src="https://raw.githubusercontent.com/ceddc/devsummit-berlin-2015-SOI/master/images/filteraccess-logged.PNG">
 <img src="https://raw.githubusercontent.com/ceddc/devsummit-berlin-2015-SOI/master/images/filteraccess-logged.PNG" width="300"></a>
 *Map visualization with credentials (all layers visible)*  
@@ -45,8 +43,8 @@ They should be used as simple samples to get started on :
 *50 000 random points with heatmap*  
 
  <a src="https://raw.githubusercontent.com/ceddc/devsummit-berlin-2015-SOI/master/images/no-heatmap.PNG"><img src="https://raw.githubusercontent.com/ceddc/devsummit-berlin-2015-SOI/master/images/no-heatmap.PNG" width="280"></a>
-*Some random points inside a standard Web AppBuilder application*  <a src="https://raw.githubusercontent.com/ceddc/devsummit-berlin-2015-SOI/master/images/with-heatmap.PNG"><img src="https://raw.githubusercontent.com/ceddc/devsummit-berlin-2015-SOI/master/images/with-heatmap.PNG" width="280"></a>
-*The server side heatmap inside a standard Web AppBuilder application*
+*Random points inside a Web AppBuilder application*  <a src="https://raw.githubusercontent.com/ceddc/devsummit-berlin-2015-SOI/master/images/with-heatmap.PNG"><img src="https://raw.githubusercontent.com/ceddc/devsummit-berlin-2015-SOI/master/images/with-heatmap.PNG" width="280"></a>
+*The server side heatmap inside a Web AppBuilder application*
 
 
 ##### TODO :
