@@ -11,9 +11,23 @@ They should be used as simple samples to get started on :
 * **What** you can do with them.
 * and then of course, build great stuff !
 
+To put things into context, the heatmap was developed during my plane trip to Berlin using literally the first lib that I've found to generate an heatmap in c#.
+
 #### Use cases
 - [FilterAccessSOI](FilterAccessSOI/FilterAccessSOI) : Filter **layer visibility** of your services based on the ArcGIS platform **user credentials**
 - [heatmapSOI](heatmapSOI/heatmapSOI) : Generate a **server-side heatmap** map, based on your point data.
+
+#### External Resources
+
+(C#) [ArcObjects Help for .NET developers](http://resources.arcgis.com/en/help/arcobjects-net/conceptualhelp/index.html#/ArcObjects_Help_for_NET_developers/0001000002zs000000/)
+
+(C#) [Developing server object interceptors help (with samples)](http://resources.arcgis.com/en/help/arcobjects-net/conceptualhelp/index.html#/Developing_server_object_interceptors/0001000000mw000001/)
+
+(C#) [A blog post from Domenico Ciavarella (NicoGis) with samples about filtering access and map watermark ](http://nicogis.blogspot.it/2015/05/tutti-pazzi-per-il-soi.html)
+
+(Java/Scala) [A project from Mansour Raad about generating on the fly images using MemSQL](https://github.com/mraad/ExportImageSOI/)
+
+
 
 
 ### FilterAccessSOI
