@@ -12,8 +12,8 @@ They should be used as simple samples to get started on :
 * and then of course, build great stuff !
 
 #### Use cases
-- FilterAccessSOI : Filter **layer visibility** of your services based on the ArcGIS platform **user credentials**
-- heamapSOI : Generate a **server-side heatmap** map, based on your point data.
+- [FilterAccessSOI](FilterAccessSOI/FilterAccessSOI) : Filter **layer visibility** of your services based on the ArcGIS platform **user credentials**
+- [heatmapSOI](heatmapSOI/heatmapSOI) : Generate a **server-side heatmap** map, based on your point data.
 
 
 ##### TODO :
